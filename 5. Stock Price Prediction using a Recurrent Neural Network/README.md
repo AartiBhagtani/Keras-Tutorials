@@ -1,4 +1,4 @@
-# Keras Tutorials
+# Stock Price Prediction
 
 Predict the Apple Stock Price using a Recurrent Neural Network.
 
